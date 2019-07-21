@@ -16,8 +16,7 @@ public class HelloWorld {
 	public static void main(String[] args) 
 	{
 		HelloWorld hello = new HelloWorld();
-		System.out.println("Hello World - This is first Java program\n" + name);
-		
+		System.out.println("Hello World - This is first Java program\n" + name);		
 	}
 
 }
